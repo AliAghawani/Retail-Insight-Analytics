@@ -20,9 +20,9 @@ Data cleaning and transformation were performed using **Power Query** to ensure 
 - **Interactive Visualizations:** Dynamic filters for time periods, locations, and categories that let you explore the data on your terms.
 
 ## Download Links ⬇️
-- [**Retail Analysis.pbix (Download)**](https://drive.google.com/file/d/1B5GOrurbcsdYW65apvKTjqtTruRKMS1i/view?usp=sharing)  
+- [**Retail Analysis.pbix (Download)**](https://drive.google.com/uc?export=download&id=1B5GOrurbcsdYW65apvKTjqtTruRKMS1i)
   _This is the main Power BI file for the project._
-- [**Datasets (Download)**](https://drive.google.com/drive/folders/1SuuQh6uAvxX2P5NQHbu3uTxjfe7ofkUE?usp=sharing)  
+- [**Datasets (Download)**](https://drive.google.com/uc?export=download&id=1SuuQh6uAvxX2P5NQHbu3uTxjfe7ofkUE)  
   _This folder contains all the datasets used in the project._
 
 ## Technologies and Tools Used 🔧
