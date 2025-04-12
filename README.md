@@ -30,8 +30,3 @@ Data cleaning and transformation were performed using **Power Query** to ensure 
 - **Power Query** for data cleaning and transformation
 - **DAX** for advanced calculations and measures
 - **Data Visualization Techniques** for creating interactive reports and dashboards
-
-## Getting Started 🚀
-1. **Clone the Repository:**
-   ```bash
-   git clone https://github.com/your-username/retail-insight-analytics.git
