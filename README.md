@@ -1,7 +1,7 @@
 # Retail Insight Analytics ⭐
 
 ## Project Overview 📝
-🧠 *This project is part of my learning journey from the* **Power BI Fundamentals Course** *by* **Corporate Finance Institute (CFI)**.
+🧠 This project is part of my learning journey from the **Power BI Fundamentals Course** *by* **Corporate Finance Institute (CFI)**.
 The goal of this project is to build a professional-level report that analyzes the performance of a retail business from two critical perspectives:
 - **Retail Sales:** Analyze various metrics to measure sales revenue and business efficiency.
 - **Retail Costs:** Evaluate the different costs associated with the business (such as wages and rent) and compare them against internal sales targets and KPIs.
